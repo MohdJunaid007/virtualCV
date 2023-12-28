@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/virtualCV/static/css/main.fbdcdbfc.css",
+    "main.js": "/virtualCV/static/js/main.e6d7ccf3.js",
+    "static/js/787.9b9c0edf.chunk.js": "/virtualCV/static/js/787.9b9c0edf.chunk.js",
+    "static/media/about-9.jpg": "/virtualCV/static/media/about-9.08860d4a7b52a8b407f7.jpg",
+    "static/media/about.gif": "/virtualCV/static/media/about.c84348cf5603357afdfc.gif",
+    "static/media/portfolio-3.jpg": "/virtualCV/static/media/portfolio-3.3f674cfce657dc6fe7df.jpg",
+    "static/media/about.jpg": "/virtualCV/static/media/about.0bf8b9ee8f1ff38d6513.jpg",
+    "static/media/portfolio-1.jpg": "/virtualCV/static/media/portfolio-1.021f079777de6b50ed0f.jpg",
+    "static/media/portfolio-4.jpg": "/virtualCV/static/media/portfolio-4.cfa4ebbf7f10ea497a60.jpg",
+    "static/media/portfolio-2.jpg": "/virtualCV/static/media/portfolio-2.933b58388db370384d29.jpg",
+    "static/media/portfolio-5.jpg": "/virtualCV/static/media/portfolio-5.e5fed6113baf50f9eb7f.jpg",
+    "static/media/blog-03.jpg": "/virtualCV/static/media/blog-03.1bced0df5ad80f8eeb76.jpg",
+    "static/media/blog-01.jpg": "/virtualCV/static/media/blog-01.67ebb920a48800aa0294.jpg",
+    "static/media/job_seek.jpg": "/virtualCV/static/media/job_seek.fd51a8511855a828bf61.jpg",
+    "static/media/topic_Tale.jpg": "/virtualCV/static/media/topic_Tale.d27f1c0ce923fd602267.jpg",
+    "static/media/blog-02.jpg": "/virtualCV/static/media/blog-02.6ecd55ed4e6547e4ca0d.jpg",
+    "index.html": "/virtualCV/index.html",
+    "main.fbdcdbfc.css.map": "/virtualCV/static/css/main.fbdcdbfc.css.map",
+    "main.e6d7ccf3.js.map": "/virtualCV/static/js/main.e6d7ccf3.js.map",
+    "787.9b9c0edf.chunk.js.map": "/virtualCV/static/js/787.9b9c0edf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbdcdbfc.css",
+    "static/js/main.e6d7ccf3.js"
+  ]
+}
